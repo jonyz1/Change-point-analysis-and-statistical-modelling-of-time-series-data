@@ -1,0 +1,41 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# # Jupyter Notebook metadata and output files
+# *.ipynb
+
+# Ignore virtual environments
+venv/
+env/
+ENV/
+.venv/
+.env/
+myenv/
+.env
+# Ignore Python cache files
+*.pyc
+
+# Ignore log files
+*.log
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore editor-specific files
+.vscode/
+.idea/
+*.swp
+
+# # Ignore output files, e.g. CSVs, Excel, etc. (optional)
+# *.csv
+# *.xlsx
+# *.xls
+
+# # Ignore data files (optional, if you keep big datasets outside Git)
+# data/

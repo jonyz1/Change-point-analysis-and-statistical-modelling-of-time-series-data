@@ -1,0 +1,8 @@
+pandas
+matplotlib
+seaborn
+statsmodels
+numpy
+pymc3
+pytest
+flake8
