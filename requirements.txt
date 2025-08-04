@@ -1,8 +1,10 @@
 pandas
+numpy
+pymc>=5.0.0
 matplotlib
 seaborn
-statsmodels
-numpy
-pymc3
+flask
+flask-cors
 pytest
 flake8
+arviz
